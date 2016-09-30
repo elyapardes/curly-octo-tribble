@@ -10,5 +10,5 @@
 * Elya Pardes(CS)
 * Hong Gan(CS)
 
-### Naritive
+### Narrative
 Using natural language processing we will increase knowledge of customer satisfaction from 15% of customer interactions to 100%, improving company decision making and ultimately improving the customer experience. 
