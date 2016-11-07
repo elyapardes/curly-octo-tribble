@@ -1,0 +1,47 @@
+Agent: Hello Elizabeth, Thank you for contacting [company] Chat Support. My name is Carol. Please give me one moment to review your information.
+Agent: My pleasure to have you on this chat, Elizabeth! Remaining committed and focused on my goal which is to provide quality customer service at my fullest effort will always be at the pinnacle. It is with utmost sincerity that I want to extend apologies for any trouble, inconvenience and frustration the log in issue has brought along your way. I simply hope you are doing fine.
+Agent: No worries. As your [company] service representative, I want you to know that issue resolution and your satisfaction are my top priorities for today. Together, we can work this out, Elizabeth.
+Agent: As I understand your concern, Elizabeth, you want to retrieve your [company] username and password for you to be able to access your online account, right?
+Customer: Yes.
+Agent: Thanks for clarifying that.
+Agent: I genuinely know how it feels to be in your shoes right now and how inconvenient it is for you to contact us for this. I admit I sometimes encounter the same problem as yours like whenever I am not aware of my log ins, Elizabeth, which makes me realize on where the feeling of frustration may come from.
+Agent: Don't worry, the wait will be worth, together, we will make sure to get this issue done for you. All we need to do is to check your account, look up for your [company] email address, and generate a temporary password for you to use in accessing your account.
+Customer: OMG — please stop empathizing with me and just solve my problem!
+Agent: I totally understand how important it is for you to have easy access to your account whenever and wherever you need to, Elizabeth. I can definitely take care of this for you today. Let me go right ahead and pull up your account first. Protecting your privacy is a priority to [company], may I have the name on the account, account number and the last four digits of your socials?
+Customer: Elizabeth [last name]
+Agent: Sure, Elizabeth.
+Customer: [Account number]
+Customer: [Social security number]
+Agent: Awesome! The information truly helps for me to pull up your account! Thanks!
+Agent: I appreciate your cooperation and patience. I have the account up now. I am checking on it, Elizabeth.
+Agent: Oh by the way, for chatting in today, I am very happy to inform you that I can sign you up to and take advantage of our best [Company] features. This one's for free!
+Agent: [Company] allows [product] subscribers to get 2 GB of space, a personalized portal, and the ability to share files through this site, [URL]. Plus, you can definitely take advantage of this feature if you have Norton installed in your computer since it automatically backs up files when your PC is idle, so backups won't slow you down or get in your way. Norton Backup will back up files to the local computer. For an online backup solution [company] offers [product] — [URL].
+Customer: You should save your upsell offers until after you solve my problem.
+Customer: I don't need backups.
+Agent: That is just a heads up for you. But I can understand your hesitation, Elizabeth. If you like to know more about [company] products and features, please feel free to visit this site: [URL]
+Agent: Thanks for waiting.
+Agent: I do see here an existing email account with [company] as per checking your account.
+Agent: I can surely provide a randomly generated password for you if you happen to forget your own password. I apologize for I am unable to provide the current password you have, as that information is hidden for your account's protection. How is that to you?
+Customer: A random password is fine.
+Agent: Thank you.
+Agent: Before I can reset your password, I need to ask for the security pin. It is a 4 digit code that is sent to you by mail when you subscribe to our phone services. May I ask for the security pin please?
+Customer: I don't have it.
+Customer: Is there another option?
+Agent: Not to worry.
+Agent: We can use your security question.
+Agent: What is your best friend's name?
+Customer: [Best friend's name]
+Agent: Great! That worked!
+Agent: Let me go ahead and reset your password now.
+Agent: I appreciate you staying patient with me. I have now your password.Temporary/Randomly Generated Password: [password]
+Customer: Thank you.
+Agent: To make sure your issue is resolved, can you check for me if the log ins work, Elizabeth?
+Customer: Yes, hold on . . .
+Agent: You're welcome.
+Agent: Take your time, Elizabeth.
+Agent: I would greatly suggest that you personalize your password into something you can easily remember through [URL], under [account] tab to ensure the safety and privacy of the account, Elizabeth.
+Customer: That worked, thank you.
+Agent: Magnificent that is! It feels great on my part knowing you were able to log in now. I really appreciate the time and opportunity you've given me in resolving your issue today, do you have anything else in mind aside from retrieving your logins, Elizabeth?
+Agent: No need to thank us. We're here to thank you.
+
+

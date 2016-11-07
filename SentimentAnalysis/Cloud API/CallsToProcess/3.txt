@@ -1,0 +1,18 @@
+Agent:           Thank you for calling ABC Company. My name is Ashley. How may I help you today?
+Customer:     I am calling because I received a wrong bill. I just paid my phone bill two days ago and my payment is not reflected in the bill.
+Agent:            Sorry for the inconvenience madam. May I have your Account Number, please.
+Customer:     5340036548
+Agent:            For verification purposes mam, Can I get your name and birthdate?, please.
+Customer:     5340036548
+Agent:            For verification purposes mam, Can I get your name and birthdate?
+Customer:     Maegan Simpson, July 23, 1974 and the account is under my name.
+Agent:            Thank you for that information mam. Per our system’s data, you did pay your last bill last Aug. 12 which was two days ago in one of our affiliated payment centers and you currently have 0 balance. However, the bill that you received was generated a week before you made the payment that’s why your latest payment had not been reflected. You can simply disregard the amount indicated  in the bill and continue enjoying our services.
+Customer:     Thank you.
+Agent:           Delays in the bill is usually caused by delays in our courier services. For a more up dated bill of your account, you can visit our website and log in to your account. This bill is more updated.
+Customer:     Ok I will.
+Agent:            Will there be anything else that you need madam?
+Customer:     No thanks.
+Agent:     Thank you for calling. We are glad to assist you.
+Customer: Ok bye. 
+
+
