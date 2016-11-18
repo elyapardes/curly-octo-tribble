@@ -1,0 +1,7 @@
+﻿Agent: This is Mike of Pizza Loco, what is your name and what would you like to order?!
+Customer: This is John Perez, I want One Family size of Pepperoni and 2 Regular Supreme.
+Agent: Thank you, so, that is One Pepperoni Family size, and Two Regular Supreme Pizza's. Is that right?
+Customer: Yep, deliver it at 745 Farmers Road, Modesto, California...
+Agent: Got it, would you like to add extra mozzarella cheese on top, that's just 5 bucks each.
+Customer: Sure, I'll just pay it in cash once it's delivered.
+Agent: Alright, it's gonna be right in front of your door, within 30mins. Thanks for calling, Pizza Loco! Have a great night!

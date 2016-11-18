@@ -13,12 +13,13 @@ DISCOVERY_URL = ('https://{api}.googleapis.com/'
 
 def main(calltext_file):
   '''
-	Before first run, run csvinit.py to initialize csv file.
-	
-	Then run:
-	
-	singleCall_sentiment.py FILENAME 
-				in command line'''
+  cd to \Desktop\Dropbox\CT\GGL\curly-octo-tribble\curly-octo-tribble\SentimentAnalysis\Cloud API
+  Before first run, run csvinit.py to initialize csv file.
+  
+  Then run:
+  
+  singleCall_sentiment.py FILENAME 
+        in command line'''
 
   http = httplib2.Http()
 
@@ -33,41 +34,53 @@ def main(calltext_file):
 
   # Open file that was parsed as cmd line argument
   call_text = open(calltext_file, 'r')
-	
-	# First char of filename is call number, and will be used to store results in csv.
+  customertext = []
+
+  for line in call_text:
+    if line[:9] == 'Customer:':
+	    customertext.append(line[9:])
+  customertext = ''.join(map(str, customertext))
+  
+  # Length of text is used to normalize magnitude sentiment measurement
+  textlength = len(customertext)
+  
+  
+  # First char of filename is call number, and will be used to store results in csv.
   fname = ntpath.basename(calltext_file)
   callnum = int(fname[0])
-	
-	# Format of API request:
+  
+  # Format of API request:
   service_request = service.documents().analyzeSentiment(
     body={
       'document': {
          'type': 'PLAIN_TEXT',
-         'content': call_text.read(),
+         'content': customertext,
       }
     })
 
-	# Execute request
+  # Execute request
   response = service_request.execute()
   polarity = response['documentSentiment']['polarity']
   magnitude = response['documentSentiment']['magnitude']
-	
-	# Storing results in csv file
+  sentmeas = 1000*polarity*magnitude/textlength
+  
+  # Storing results in csv file
   r = csv.reader(open('CallsToProcess/output.csv')) # Here your csv file
-  lines = [l for l in r]
-  lines[callnum-1][0] = callnum
-  lines[callnum-1][1] = polarity
-  lines[callnum-1][2] = magnitude
+  csvrows = [l for l in r]
+  csvrows[callnum-1][0] = callnum
+  csvrows[callnum-1][1] = polarity
+  csvrows[callnum-1][2] = magnitude
+  csvrows[callnum-1][3] = sentmeas
   writer = csv.writer(open('CallsToProcess/output.csv', 'wb'))
-  writer.writerows(lines)
-	
-  print('Sentiment: polarity of %s with magnitude of %s' % (polarity, magnitude))
+  writer.writerows(csvrows)
+  
+  print('Sentiment: polarity of %s with magnitude of %s. Final measurement is %s' % (polarity, magnitude, sentmeas))
   return 0
 
 if __name__ == '__main__':
   parser = argparse.ArgumentParser()
   parser.add_argument(
     'calltext_file', help='The filename of the call transcript you\'d like to analyze.')
-#	parser.add_argument("--fname", "-f", type=str, required=True)
+# parser.add_argument("--fname", "-f", type=str, required=True)
   args = parser.parse_args()
   main(args.calltext_file)

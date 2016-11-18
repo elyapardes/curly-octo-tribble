@@ -2,25 +2,23 @@ Agent: Good afternoon. TBH Network Solutions.
 Customer: Yeah, hi. My system is down and I need to speak with a technician. 
 Agent: Oh, okay. Let me gather some information and see if we can help. What is your first name? 
 Customer: Fred. 
-Agent: And your last name; would you spell it for me please? Fred Sure. It’s C-H-A-M-B-E-R-S, Chambers. 
+Agent: And your last name; would you spell it for me please? Fred Sure. Itâ€™s C-H-A-M-B-E-R-S, Chambers. 
 Agent: Okay. And your company name? 
-Customer: I’m with GoldStar Environmental. 
+Customer: Iâ€™m with GoldStar Environmental. 
 Agent: GoldStar Environmental?
-Customer: Yes ma’am.
+Customer: Yes maâ€™am.
 Agent: Okay. And your callback number? 
 Customer: 610-265-1715. 
-Agent: That’s 610-265-1715? 
+Agent: Thatâ€™s 610-265-1715? 
 Customer: Yes. 
 Agent: Okay. And what seems to be the problem today? 
-Customer: My agents aren’t able to make or receive any telephone calls. 
+Customer: My agents arenâ€™t able to make or receive any telephone calls. 
 Agent: Okay and what type of system do you have. Fred I have AmStar700, I think. Emily Okay. Are you able to log on to the system?
-Customer: No, actually, I can’t even get an Internet connection. 
-Agent: Okay. According to my records, the AmStar700 is a voiceover Internet protocol phone. It appears that because your Internet isn’t working, your phones are not working as well. Do you know who your Internet provider is? 
+Customer: No, actually, I canâ€™t even get an Internet connection. 
+Agent: Okay. According to my records, the AmStar700 is a voiceover Internet protocol phone. It appears that because your Internet isnâ€™t working, your phones are not working as well. Do you know who your Internet provider is? 
 Customer: I have Verizon. 
-Agent: Okay. Mr. Chambers, I’m going to get a hold of Randy, and have him return your call. Is the 610-265-1715 a good number to reach you at right now?
-Customer: Yeah that’s my cell. That is working. 
+Agent: Okay. Mr. Chambers, Iâ€™m going to get a hold of Randy, and have him return your call. Is the 610-265-1715 a good number to reach you at right now?
+Customer: Yeah thatâ€™s my cell. That is working. 
 Agent: Okay, great. In the meantime, see if you can reach out to Verizon and let them know your issue. And Randy should be calling you back shortly. 
 Customer: Thank you very much for your help. 
-Agent: You’re welcome. Thank you. Goodbye. Fred Take care. Goodbye.
-
-
+Agent: Youâ€™re welcome. Thank you. Goodbye. Fred Take care. Goodbye.

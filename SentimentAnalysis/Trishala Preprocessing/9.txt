@@ -1,0 +1,34 @@
+﻿Agent: Thanks for contacting EA Customer Experience, my name is Nipun. How may I assist you today?
+Customer: hello.
+Agent: Hello Ben !
+Customer: I bought simcity and told I cannot install it due to the product code already being used.
+Agent: I see.
+Customer: is there anyway to get the code reset or am i out the money paid?
+Agent: I would like to inform you that you have purchased a used copy of the game it cannot be redeemed on your account as once the code is redeemed it cannot be redeemed again .
+Agent: As per the EA policies we do not suggest customers to purchase a used copy of the game .
+Customer: this is a very bad policy as I bought it NEW.
+Customer: and very bad customer service.
+Agent: I understand your state of mind but these policies are made for the security of the customer's account .What best I can do is I will provide you a 15% discount code which you may use to purchase the new copy of the same .How about that ?
+Customer: I already bought it! What does a 15% discount do when I already paid $60 for it?
+Agent: I am afraid then as its an online game needs to active on the account which you are using .I am so sorry as you would not be able to play until its active on your account.
+Customer: may i speak with your supervisor.
+Agent: Yes you may.
+Agent: Do you mind if I place your chat on hold of a couple of minutes so that I can connect you with my supervisor ?
+Customer: please do.
+Agent: Thank you for waiting. I appreciate your patience.
+Agent: As I have checked this issue with my supervisor he also told me the same thing that once the code is redeemed it cannot be redeemed again on other account .
+Agent: This is an EA policy .
+Customer: EA has just lost a customer for life.
+Customer: I will gladly post to every forum social networking site about this issue.
+Agent: If I were in your shoes, I’m sure I’d feel just as you do but as per the policies this is not possible to redeem the code again .
+Customer: and considering I asked to SPEAK to your supervisor and you come back with a reply, that is very bad customer service
+info: Your chat transcript will be sent to ************@*mail.com at the end of your chat session.
+Customer: shows where EA rates its customers.
+Agent: In what issue you want to talk with the supervisor as I have discussed the case with him he said the same thing which I have already told you o.
+Customer: really? 
+Agent: Yes .
+Agent: I have discussed this case with him .
+Customer: i need the phone number for your corporate office and your employee id number.
+Agent: You may use the call me option available on the help website and our team will call you up for this issue .Our team will be available from  8AM-11PM CDT, Monday through Saturday.
+Agent: I would not be able to provide you the employee id number as this is not allowed. You may have this case id for the reference : 1********
+Agent: Is there anything else that you wish to know?

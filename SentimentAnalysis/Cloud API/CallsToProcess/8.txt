@@ -156,7 +156,7 @@ Agent: I am still pulling it up Karen.  I apologize for the tool latency that we
 Agent:
 
 
-»www.comcast.com/Customer ··· pup.ashx
+Â»www.comcast.com/Customer Â·Â·Â· pup.ashx
 
 
 Customer: Which package type do I select from the drop down menu?

@@ -20,7 +20,7 @@ Agent: As I have checked this issue with my supervisor he also told me the same 
 Agent: This is an EA policy .
 Customer: EA has just lost a customer for life
 Customer: I will gladly post to every forum social networking site about this issue
-Agent: If I were in your shoes, I’m sure I’d feel just as you do but as per the policies this is not possible to redeem the code again .
+Agent: If I were in your shoes, Iâ€™m sure Iâ€™d feel just as you do but as per the policies this is not possible to redeem the code again .
 Customer: and considering I asked to SPEAK to your supervisor and you come back with a reply, that is very bad customer service
 info: Your chat transcript will be sent to ************@*mail.com at the end of your chat session.
 Customer: shows where EA rates its customers

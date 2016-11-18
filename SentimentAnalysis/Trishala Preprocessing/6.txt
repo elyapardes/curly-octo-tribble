@@ -1,0 +1,56 @@
+﻿Customer: Hi, how are you Pawn?
+Customer: Pawn, That’s a nice name.
+Agent: I’m doing great today, G.E.. Thank you for asking.
+Agent: How about you?
+Customer: Not bad, have the day off work.
+Agent: Hope you are doing fine today.
+Customer: Question – on my latest bill, I had two charges for the Wrestler on Demand
+Agent: That’s good to know, G.E.
+Customer: The first didn’t work, so when I went back, it charged me a second time.
+Agent: My sincere apologies for the inconvenience.
+Agent: No worries G.E., I will be glad take a look at your account to confirm all information and take care of your concerns regarding your Comcast bill now.
+Customer: OK.
+Agent: Thank you.
+Agent: G.E., thank you for waiting.
+Agent: If I may ask, were you able to contact us when the first Wrestler on Demand did not work?
+Customer: No, I just went back into it a second time b/c the first time didn’t work.
+Customer: it worked the second time.
+Agent: G.E., only we can consider removing the charge if you were able to contact us on the exact date that you found out that the show is not working.
+Agent: G.E., are you still with me?
+Customer: Hmm… I didn’t know about that contrived rule.
+Customer: and I didn’t think I’d be charged in the first place since the movie never worked
+Customer: why would I pay twice for the same movie knowingly?
+Agent: I understand, G.E. however those shows were ordered on separate dates. If you were able to contact us, we can somehow consider removing the charge.
+Customer: I am contacting you now to tell you.
+Agent: I am referring on the date that the show did not work,
+Agent: Since the charge is system generated.
+Customer: The movie did not work. Your service did not deliver as promised, so I should not have to pay for it.
+Customer: It’s only $2.99, but it’s a matter of principle.
+Agent: G.E., i really understand how inconvenient it is spending out money. However, it was really not a problem considering a credit or removing the charge if it was brought to our knowledge the exact date of order and the show was not working.
+Agent: If we take a look at it, today’s date is really beyond and is far from the date of the order.
+Agent: Our system won’t even recognize that the show was not working since the order was successfully processed.
+Customer: Look, I know you have the power to extend a courtesy credit. It should not matter what date this happened. This is poor customer service. If you do not extend a credit for this, I’m going to cancel my Comcast service right now. I’ll give you the choice.
+Customer: Credit or Cancel. Up to you.
+Customer: $2.99 credit, Pawn. Make it easy on yourself and do the right thing.
+Agent: If this happened to be just a misapplied payment or something that is an error on Comcast side, then we’ll be gladly honor a credit on it.
+Agent: But G.E., I do hope you understand that the order was made successfully and it’s already beyond or very far from the date the order was made. <G.E. Note: I had just received the monthly bill for these charges the day before I chatted in>
+Customer: It does not matter what date this happened or when I am telling you about it.
+Customer: OK, go ahead and cancel my service. I’m tired of Comcast’s poor customer service and I don’t want to give you guys any more of my money.
+Customer: I’m also going to give this chat a poor rating when I’m done.
+Agent: Alright, G.E. I know you are upset about this. I am glad we are able to clarify that if this thing happen again, we expect you to contact us in time.
+Agent: I’m here to help you with this, G.E..
+Agent: I know it is a risk for me, but, being a valued customer, I will take the risk to give you a credit this time.
+Agent: How would you like it, G.E.?
+Customer: Yes. That is what I’ve been asking for.
+Agent: That’s alright, G.E. Let me do the process and I hope this would make you feel better.
+Agent: G.E., thank you so much for patiently waiting online.
+Agent: I have successfully processed an inconvenience credit on your account for $5.00
+Customer: Thank you.
+Agent: Just to set the right expectation, the credit will be posted on your account on the next billing cycle.
+Agent: You are most welcome, G.E.,.
+Agent: We always value you as our customer.
+Agent: I hope this will make you feel better this time.
+Agent: My sincere apologies for all the inconvenience.
+Agent: G.E., I am glad we are able to clarify that if this thing happen again, we expect you to contact us in time.
+Agent: Before we finish up, I’d like to just take a minute to review what we have done so far. We have resolved your concern by processing an inconvenience credit on your account to compensate with the Wrestler on Demand show which did not work on your initial order.
+Agent: It was my pleasure to help you with your billing issue today, G.E.. Thank you for your patience. Do you have any other questions or concerns today?

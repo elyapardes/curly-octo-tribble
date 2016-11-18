@@ -1,0 +1,43 @@
+﻿Agent: am I speaking with Mr. Rohan Sharma. 
+
+
+Customer: yes or no. Then we have to ask may I know whom I am speaking with?
+
+Agent: good morning sir! I am Anusha calling from Reliance Infocomm. Our company has launched a very attractive calling card. Can I just take 5 minutes of your precious time to explain it to you?
+
+Customer: ok. Go ahead.
+
+Agent: Thanks you sir, As I was telling you about the calling card which comes with free reliance to reliance calling 24 hrs. And other local calls cost you just 45 paise per minute. All STD calls are fixed at rs 1 per minute. And all this come s for just rs 250 a month. This is not all sir. We have a scheme running if you buy the card today itself then yuou would be getting an add on card absolutely free. 
+
+
+Customer: are you sure all local calls are for 45 paisa only?
+
+
+Agent: yes Sir I m 100% sure.
+
+
+Customer: But I already have two connections. What is the use of third one.
+
+Agent: sir, now a days people keep 4-5 Sims and according to there usage and benefits they keep on switching to other Sims. And this sim is also very cheap and call rates are very less. You are getting the best deal sir. 
+
+Customer: ok. What do I have to do?
+
+
+Agent: sir you just have to give a copy of ration card or your driving license. Or pan card. And two photos of yours.
+
+
+Customer: ok I have all these things ready.
+
+
+Agent: Thank you sir. Our agent will come to your place tomorrow and collect all the documents from and deliver the sim to you. May I know the convenient time when you would be Available?
+
+
+Customer: Ok, send your executive at 11 am tomorrow.
+
+
+Agent: Ok, sir. Thank you very much. Have a nice day.
+
+
+Customer: You’re welcome. You too have a nice day. Bye.
+
+Agent: bye.
